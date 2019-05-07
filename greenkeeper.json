@@ -1,0 +1,11 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "letter-shop/completed/package.json",
+        "letter-shop/package.json",
+        "package.json"
+      ]
+    }
+  }
+}
